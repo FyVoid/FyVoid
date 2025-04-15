@@ -37,8 +37,6 @@ You've stumpled into Fyvo1d's profile
 
 > 📦 65.0 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -105,7 +103,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FyVoid/FyVoid/main/assets/bar_graph.png)
 
 
- Last Updated on 15/04/2025 20:27:55 UTC
+ Last Updated on 15/04/2025 20:29:07 UTC
 <!--END_SECTION:waka-->
 
 ---
