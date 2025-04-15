@@ -29,7 +29,7 @@ You've stumpled into Fyvo1d's profile
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-75-blue)
 
@@ -103,7 +103,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FyVoid/FyVoid/main/assets/bar_graph.png)
 
 
- Last Updated on 15/04/2025 14:26:29 UTC
+ Last Updated on 15/04/2025 14:27:45 UTC
 <!--END_SECTION:waka-->
 
 ---
