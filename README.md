@@ -1,7 +1,7 @@
 ```
 main.cpp:61:7: error: unexpected behavior detected
 compilation terminated.
-This is Fyvoid, HELLO
+This is FyVoid, HELLO
 ```
 
 > Turn to page 617 — Scientific Witchery
