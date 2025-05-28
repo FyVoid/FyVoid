@@ -32,11 +32,13 @@ You've stumpled into Fyvo1d's profile
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-148%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 30.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 383 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -110,7 +112,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FyVoid/FyVoid/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2025 01:48:11 UTC
+ Last Updated on 28/05/2025 03:15:17 UTC
 <!--END_SECTION:waka-->
 
 ---
