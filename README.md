@@ -38,8 +38,6 @@ This is FyVoid, HELLO
 
 > 📦 30.6 kB Used in GitHub's Storage 
  > 
-> 🏆 385 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -112,7 +110,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FyVoid/FyVoid/main/assets/bar_graph.png)
 
 
- Last Updated on 02/06/2025 05:22:40 UTC
+ Last Updated on 02/06/2025 06:34:27 UTC
 <!--END_SECTION:waka-->
 
 ---
