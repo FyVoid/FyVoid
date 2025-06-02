@@ -30,7 +30,7 @@ This is FyVoid, HELLO
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
@@ -112,7 +112,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FyVoid/FyVoid/main/assets/bar_graph.png)
 
 
- Last Updated on 02/06/2025 09:25:31 UTC
+ Last Updated on 02/06/2025 10:25:34 UTC
 <!--END_SECTION:waka-->
 
 ---
