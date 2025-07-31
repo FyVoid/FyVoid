@@ -30,7 +30,7 @@ This is FyVoid, HELLO
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-301%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-301%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -38,7 +38,7 @@ This is FyVoid, HELLO
 
 > 📦 34.9 kB Used in GitHub's Storage 
  > 
-> 🏆 487 Contributions in the Year 2025
+> 🏆 481 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -112,7 +112,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FyVoid/FyVoid/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2025 08:34:04 UTC
+ Last Updated on 31/07/2025 09:30:25 UTC
 <!--END_SECTION:waka-->
 
 ---
