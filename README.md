@@ -33,7 +33,7 @@ This is FyVoid, HELLO
 <p align="left">
   <img src="https://www.vulkan.org/user/themes/vulkan/images/logo/vulkan-logo.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webgpu/webgpu-original-wordmark.svg" />    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webgpu/webgpu-original-wordmark.svg" height="40" />    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" />
