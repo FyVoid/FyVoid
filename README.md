@@ -129,12 +129,6 @@ C#                       1 repo              █░░░░░░░░░░�
 
 ---
 
-## Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fyvoid&layout=compact&theme=tokyonight)
-
----
-
 ## Contact
 
 - Email: [fyvo1d@outlook.com](fyvo1d@outlook.com)  
