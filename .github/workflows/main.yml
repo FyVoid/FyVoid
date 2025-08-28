@@ -16,3 +16,4 @@ jobs:
           SHOW_PROJECTS: "False"
           DEBUG_LOGGING: "True"
           SHOW_LINES_OF_CODE: "True"
+          DEBUG_RUN: "True"
