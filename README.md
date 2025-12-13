@@ -38,7 +38,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-560%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-560%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -46,7 +46,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 42.5 kB Used in GitHub's Storage 
+> 📦 42.4 kB Used in GitHub's Storage 
  > 
 > 🏆 663 Contributions in the Year 2025
  > 
@@ -112,7 +112,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/12/2025 15:21:57 UTC
+ Last Updated on 13/12/2025 16:28:41 UTC
 <!--END_SECTION:waka-->
 
 ---
