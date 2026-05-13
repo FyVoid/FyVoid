@@ -1,6 +1,7 @@
 > Turn to page 617 — Scientific Witchery
 
 ---
+## [Blog](https://fyvo1d.cybercarrot.net/)
 
 ## Supported Extensions
 
@@ -22,6 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" height="40" />
+   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/codex-color.png" height="40" />
 </p>
 <p align="left">
   <img src="https://www.vulkan.org/user/themes/vulkan/images/logo/vulkan-logo.svg" height="40" />
