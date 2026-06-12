@@ -40,7 +40,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-890%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-896%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -50,7 +50,7 @@
 
 > 📦 185.9 kB Used in GitHub's Storage 
  > 
-> 🏆 235 Contributions in the Year 2026
+> 🏆 237 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -58,64 +58,20 @@
  > 
 > 🔑 25 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                503 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-🌆 Daytime                2440 commits        ██████████████░░░░░░░░░░░   55.61 % 
-🌃 Evening                1269 commits        ███████░░░░░░░░░░░░░░░░░░   28.92 % 
-🌙 Night                  176 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   541 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Tuesday                  451 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-Wednesday                658 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Thursday                 674 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Friday                   285 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-Saturday                 696 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-Sunday                   1083 commits        ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-C#                       10 hrs 26 mins      ██████████░░░░░░░░░░░░░░░   40.47 % 
-Markdown                 8 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   31.53 % 
-Python                   3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-JSON                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-Other                    1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-
-🔥 Editors: 
-VS Code                  24 hrs 30 mins      ████████████████████████░   94.96 % 
-Claude Code              43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-Exec Wakatime            26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-Chrome                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-
-💻 Operating System: 
-Windows                  24 hrs 5 mins       ███████████████████████░░   93.37 % 
-Mac                      1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
-Python                   15 repos            ███████████░░░░░░░░░░░░░░   42.86 % 
-C++                      9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Python                   15 repos            ██████████░░░░░░░░░░░░░░░   41.67 % 
+C++                      9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
 
 
- Last Updated on 11/06/2026 04:17:06 UTC
+ Last Updated on 12/06/2026 04:19:14 UTC
 <!--END_SECTION:waka-->
 
 ---
