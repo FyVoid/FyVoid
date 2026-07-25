@@ -83,19 +83,18 @@ Sunday                   1087 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       29 hrs 35 mins      ██████████████████████░░░   86.24 % 
-Markdown                 2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-XML                      1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Python                   34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-Other                    25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+C#                       32 hrs 4 mins       ███████████████████████░░   93.11 % 
+XML                      1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Other                    22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Markdown                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🔥 Editors: 
-VS Code                  34 hrs 14 mins      █████████████████████████   99.76 % 
+VS Code                  34 hrs 22 mins      █████████████████████████   99.77 % 
 Chrome                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  34 hrs 19 mins      █████████████████████████   100.00 % 
+Windows                  34 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -111,7 +110,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 02:54:17 UTC
+ Last Updated on 25/07/2026 02:53:55 UTC
 <!--END_SECTION:waka-->
 
 ---
