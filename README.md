@@ -40,6 +40,8 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C104%20hrs%2041%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.23%20million%20lines%20of%20code-blue?style=flat)
@@ -83,18 +85,17 @@ Sunday                   1087 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       32 hrs 4 mins       ███████████████████████░░   93.11 % 
-XML                      1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+C#                       32 hrs              ███████████████████████░░   93.09 % 
+XML                      1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 Other                    22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 Markdown                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🔥 Editors: 
-VS Code                  34 hrs 22 mins      █████████████████████████   99.77 % 
-Chrome                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+VS Code                  34 hrs 22 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  34 hrs 27 mins      █████████████████████████   100.00 % 
+Windows                  34 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -110,7 +111,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 02:53:55 UTC
+ Last Updated on 26/07/2026 03:18:59 UTC
 <!--END_SECTION:waka-->
 
 ---
