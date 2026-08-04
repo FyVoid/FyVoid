@@ -87,42 +87,42 @@ Sunday                   1087 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       26 hrs 1 min        ████████████████████░░░░░   78.85 % 
-Markdown                 4 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-JSON                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-Python                   25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-Text                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+C#                       28 hrs 5 mins       ████████████████████░░░░░   80.76 % 
+Markdown                 4 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+JSON                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Python                   25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+XML                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 🔥 Editors: 
-VS Code                  31 hrs 36 mins      ████████████████████████░   95.74 % 
-Claude Code              1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+VS Code                  32 hrs 53 mins      ████████████████████████░   94.54 % 
+Claude Code              1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 
 💻 Operating System: 
-Windows                  33 hrs              █████████████████████████   100.00 % 
+Windows                  34 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 43 mins (41.58%)
+⏱ AI Coding Time: 12 hrs 42 mins (36.51%)
 
-✍️ 13,127 lines written by AI, 1,651 lines written by hand (88.83% AI-written)
+✍️ 12,660 lines written by AI, 1,588 lines written by hand (88.85% AI-written)
 
-🔤 65,096,113 Input Tokens, 280,499 Output Tokens
+🔤 64,866,669 Input Tokens, 308,217 Output Tokens
 
-💵 $245.52 Estimated AI Cost This Week
+💵 $256.03 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 918 AI Prompts
+🧠 17 AI Sessions, 566 AI Prompts
 
-K                        12,153 lines        ███████████████████████░░   91.64 % 
-Opus                     1,109 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+K                        11,591 lines        ███████████████████████░░   90.02 % 
+Opus                     1,285 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.83% of written lines came from AI
-📄 Detailed Prompter — average 532 characters per prompt
-🔁 Iterative Prompter — average 54 prompts per session
-🔍 Hands-On Reviewer — 86.19% of changed lines were hand-edited
+🤖 AI-Driven — 88.85% of written lines came from AI
+📄 Detailed Prompter — average 845 characters per prompt
+🔁 Iterative Prompter — average 33 prompts per session
+🔍 Hands-On Reviewer — 86.54% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -138,7 +138,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/08/2026 03:19:44 UTC
+ Last Updated on 04/08/2026 02:48:40 UTC
 <!--END_SECTION:waka-->
 
 ---
