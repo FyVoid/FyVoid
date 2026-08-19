@@ -40,11 +40,11 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C156%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C162%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-330%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-331%20hrs%2010%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.23%20million%20lines%20of%20code-blue?style=flat)
 
@@ -87,47 +87,46 @@ Sunday                   1087 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       26 hrs 27 mins      ███████████████████████░░   93.89 % 
-Markdown                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-XML                      47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-Unity3D Asset            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+C#                       24 hrs 13 mins      ██████████████████████░░░   87.45 % 
+Markdown                 1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Python                   46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+XML                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+JSON                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 15 mins      ████████████████████████░   96.73 % 
-Claude Code              49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Chrome                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+VS Code                  26 hrs 58 mins      ████████████████████████░   97.40 % 
+Claude Code              37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Chrome                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Windows                  28 hrs 10 mins      █████████████████████████   99.99 % 
+Windows                  27 hrs 41 mins      █████████████████████████   99.99 % 
 Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 46 mins (16.92%)
+⏱ AI Coding Time: 6 hrs 6 mins (22.04%)
 
-✍️ 964 lines written by AI, 847 lines written by hand (53.23% AI-written)
+✍️ 2,901 lines written by AI, 780 lines written by hand (78.81% AI-written)
 
-🔤 2,268,311 Input Tokens, 126,223 Output Tokens
+🔤 2,985,281 Input Tokens, 188,014 Output Tokens
 
-💵 $25.28 Estimated AI Cost This Week
+💵 $108.96 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 38 AI Prompts
+🧠 13 AI Sessions, 77 AI Prompts
 
-K                        964 lines           █████████████████████████   100.00 % 
+Glm                      2,943 lines         █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 53.23% of written lines came from AI
-📝 Concise Prompter — average 314 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 64.28% of changed lines were hand-edited
+🤖 AI-Driven — 78.81% of written lines came from AI
+📄 Detailed Prompter — average 745 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 40.32% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -143,7 +142,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2026 01:23:15 UTC
+ Last Updated on 19/08/2026 01:24:49 UTC
 <!--END_SECTION:waka-->
 
 ---
