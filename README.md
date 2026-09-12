@@ -40,9 +40,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C258%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C265%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-368%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-372%20hrs%203%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -87,47 +87,47 @@ Sunday                   1091 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       26 hrs 25 mins      █████████████████████░░░░   85.96 % 
-XML                      1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-JSON                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-Markdown                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-Other                    32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+C#                       27 hrs 40 mins      █████████████████████░░░░   83.63 % 
+XML                      1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Markdown                 1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Other                    1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 11 mins      ████████████████████░░░░░   78.66 % 
-Claude Code              6 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-Codex Vscode             30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+VS Code                  24 hrs 46 mins      ███████████████████░░░░░░   74.87 % 
+Claude Code              7 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
+Codex Vscode             30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 Chrome                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  29 hrs 57 mins      ████████████████████████░   97.43 % 
-Mac                      47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Windows                  32 hrs 16 mins      ████████████████████████░   97.56 % 
+Mac                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 5 mins (39.32%)
+⏱ AI Coding Time: 14 hrs 52 mins (44.95%)
 
-✍️ 909 lines written by AI, 1,179 lines written by hand (43.53% AI-written)
+✍️ 1,799 lines written by AI, 1,028 lines written by hand (63.64% AI-written)
 
-🔤 8,884,038 Input Tokens, 423,443 Output Tokens
+🔤 11,705,386 Input Tokens, 512,369 Output Tokens
 
-💵 $86.63 Estimated AI Cost This Week
+💵 $107.54 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 161 AI Prompts
+🧠 39 AI Sessions, 181 AI Prompts
 
-Opus                     631 lines           █████████████████░░░░░░░░   67.92 % 
-Deepseek                 298 lines           ████████░░░░░░░░░░░░░░░░░   32.08 % 
+Opus                     1,544 lines         █████████████████████░░░░   83.82 % 
+Deepseek                 298 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 43.53% of written lines came from AI
-📚 Verbose Prompter — average 2,136 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 67.07% of changed lines were hand-edited
+⚖️ Balanced with AI — 63.64% of written lines came from AI
+📚 Verbose Prompter — average 2,885 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 55.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -143,7 +143,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 03:44:51 UTC
+ Last Updated on 12/09/2026 03:48:12 UTC
 <!--END_SECTION:waka-->
 
 ---
