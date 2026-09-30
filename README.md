@@ -40,11 +40,11 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C329%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C336%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-398%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-401%20hrs%205%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.23%20million%20lines%20of%20code-blue?style=flat)
 
@@ -87,44 +87,44 @@ Sunday                   1091 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       25 hrs 49 mins      ████████████████████████░   94.70 % 
-Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-XML                      32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-Unity3D Asset            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+C#                       25 hrs 40 mins      ███████████████████████░░   91.46 % 
+Markdown                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+XML                      52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Other                    26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-VS Code                  24 hrs              ██████████████████████░░░   88.02 % 
-Claude Code              3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+VS Code                  23 hrs 15 mins      █████████████████████░░░░   82.86 % 
+Claude Code              4 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Codex Vscode             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 💻 Operating System: 
-Windows                  27 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  28 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 57 mins (21.87%)
+⏱ AI Coding Time: 7 hrs 26 mins (26.49%)
 
-✍️ 8,163 lines written by AI, 1,226 lines written by hand (86.94% AI-written)
+✍️ 2,363 lines written by AI, 1,412 lines written by hand (62.6% AI-written)
 
-🔤 7,214,794 Input Tokens, 540,789 Output Tokens
+🔤 12,246,609 Input Tokens, 660,265 Output Tokens
 
-💵 $65.77 Estimated AI Cost This Week
+💵 $96.39 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 52 AI Prompts
+🧠 16 AI Sessions, 73 AI Prompts
 
-Opus                     8,300 lines         █████████████████████████   100.00 % 
+Opus                     2,504 lines         █████████████████████████   100.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.94% of written lines came from AI
-📝 Concise Prompter — average 469 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 16.5% of changed lines were hand-edited
+⚖️ Balanced with AI — 62.6% of written lines came from AI
+📄 Detailed Prompter — average 990 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 42.87% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -140,7 +140,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2026 04:57:14 UTC
+ Last Updated on 30/09/2026 04:44:19 UTC
 <!--END_SECTION:waka-->
 
 ---
