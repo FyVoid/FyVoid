@@ -87,42 +87,19 @@ Sunday                   1091 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       4 hrs 28 mins       ████████████████░░░░░░░░░   64.68 % 
-Other                    1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Markdown                 58 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-C++                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              4 hrs 9 mins        ███████████████░░░░░░░░░░   60.15 % 
-VS Code                  2 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   29.35 % 
-Codex Vscode             43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 hrs 55 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 23 mins (77.97%)
-
-✍️ 676 lines written by AI, 177 lines written by hand (79.25% AI-written)
-
-🔤 10,748,318 Input Tokens, 620,727 Output Tokens
-
-💵 $107.38 Estimated AI Cost This Week
-
-🧠 7 AI Sessions, 72 AI Prompts
-
-Opus                     676 lines           █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 79.25% of written lines came from AI
-📚 Verbose Prompter — average 5,709 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 28.99% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -138,7 +115,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 05:03:08 UTC
+ Last Updated on 08/10/2026 05:13:43 UTC
 <!--END_SECTION:waka-->
 
 ---
