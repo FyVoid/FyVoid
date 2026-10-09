@@ -87,19 +87,39 @@ Sunday                   1091 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       4 hrs 32 mins       ██████████████████░░░░░░░   71.98 % 
+Other                    1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   27.45 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 21 mins       █████████████████░░░░░░░░   69.02 % 
+Claude Code              1 hr 57 mins        ████████░░░░░░░░░░░░░░░░░   30.98 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 14 mins (35.57%)
+
+✍️ 0 lines written by AI, 270 lines written by hand (0.0% AI-written)
+
+🔤 9,250,694 Input Tokens, 207,772 Output Tokens
+
+💵 $68.94 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 12 AI Prompts
+
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 4,594 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -115,7 +135,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2026 05:13:43 UTC
+ Last Updated on 09/10/2026 05:16:27 UTC
 <!--END_SECTION:waka-->
 
 ---
