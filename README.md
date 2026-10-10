@@ -40,9 +40,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C348%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C352%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-408%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-410%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -87,38 +87,42 @@ Sunday                   1091 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       4 hrs 32 mins       ██████████████████░░░░░░░   71.98 % 
-Other                    1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   27.45 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+C#                       8 hrs 48 mins       █████████████████░░░░░░░░   66.96 % 
+Other                    3 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   30.05 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+XML                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 21 mins       █████████████████░░░░░░░░   69.02 % 
-Claude Code              1 hr 57 mins        ████████░░░░░░░░░░░░░░░░░   30.98 % 
+VS Code                  8 hrs 52 mins       █████████████████░░░░░░░░   67.46 % 
+Claude Code              4 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   32.47 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Windows                  6 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  13 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 14 mins (35.57%)
+⏱ AI Coding Time: 4 hrs 54 mins (37.29%)
 
-✍️ 0 lines written by AI, 270 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 427 lines written by hand (0.0% AI-written)
 
-🔤 9,250,694 Input Tokens, 207,772 Output Tokens
+🔤 11,414,623 Input Tokens, 373,327 Output Tokens
 
-💵 $68.94 Estimated AI Cost This Week
+💵 $91.90 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 12 AI Prompts
+🧠 4 AI Sessions, 22 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 4,594 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
+📚 Verbose Prompter — average 2,526 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -135,7 +139,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 05:16:27 UTC
+ Last Updated on 10/10/2026 05:01:31 UTC
 <!--END_SECTION:waka-->
 
 ---
