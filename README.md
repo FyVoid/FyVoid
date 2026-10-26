@@ -87,26 +87,26 @@ Sunday                   1091 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       26 hrs              ███████████████████░░░░░░   76.06 % 
-Markdown                 2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-Other                    2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-JSON                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-XML                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+C#                       25 hrs 59 mins      ███████████████████░░░░░░   76.07 % 
+Markdown                 2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Other                    2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+JSON                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+XML                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 11 mins      ███████████████████░░░░░░   76.55 % 
-Claude Code              7 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
-Chrome                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+VS Code                  26 hrs 11 mins      ███████████████████░░░░░░   76.63 % 
+Claude Code              7 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
+Chrome                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 Codex Vscode             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 💻 Operating System: 
-Windows                  34 hrs 12 mins      █████████████████████████   100.00 % 
+Windows                  34 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 16 mins (30.06%)
+⏱ AI Coding Time: 10 hrs 16 mins (30.1%)
 
 ✍️ 1,674 lines written by AI, 1,508 lines written by hand (52.61% AI-written)
 
@@ -140,7 +140,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2026 03:50:59 UTC
+ Last Updated on 26/10/2026 03:54:38 UTC
 <!--END_SECTION:waka-->
 
 ---
